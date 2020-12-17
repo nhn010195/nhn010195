@@ -8,5 +8,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Patitek
 - 🌱 I’m currently learning Ruby on rails,Python,C#
 
-  **GitHub** **Synchronize**  **Open from**
 
